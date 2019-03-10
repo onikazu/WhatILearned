@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+    <title>test</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<p id="aaaaa">t<strong>es</strong>t</p>
+
+<script type="text/javascript">
+    var newelement = document.createElement('p');
+    var newtextnode = document.createTextNode('新しいテキストノード')
+    console.log(newelement);
+    newelement.appendChild(newtextnode);
+    document.body.appendChild(newelement);
+</script>
+</body>
+</html>

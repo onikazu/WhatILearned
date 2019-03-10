@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <title>test</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<p>これは1つ目の段落です。</p>
+<p id="aaaaa">t<strong>es</strong>t</p>
+<p>これは3つ目の段落です。</p>
+
+<script type="text/javascript">
+    var p = document.getElementById('aaaaa');
+    var children = p.childNodes;
+
+    while( p.hasChildNodes() ){
+        //p.removeChild( children.item(0) );
+        p.removeChild(p.firstChild);
+    }
+</script>
+</body>
+</html>
