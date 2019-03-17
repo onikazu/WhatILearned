@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Robe"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Robe">
+				<Option output="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Robe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 Robe"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Robe/fast">
+				<Option output="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Robe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 Robe/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main10.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main11.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main12.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main13.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main13_2.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main14.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main15.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main16.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main17.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main18.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main19.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main19_2.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main2.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main20.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main22.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main23.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main24.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main24_2.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main26.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main27.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main27.h">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main28.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main29.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main29_2.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main3.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main31.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main32.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main33.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main34.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main35.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main36.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main37.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main38.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main39.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main40.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main41.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main43.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main43_2.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main44.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main49.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main5.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main51.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main52.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main54.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main55.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main6.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main7.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main8.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/main9.cpp">
+			<Option target="Robe"/>
+		</Unit>
+		<Unit filename="/Users/kazukimasumura/WhatILearned/CppProject/Robe/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

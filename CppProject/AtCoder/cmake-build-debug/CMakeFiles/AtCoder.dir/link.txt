@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/AtCoder.dir/main.cpp.o CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o  -o AtCoder 

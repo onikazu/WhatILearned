@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65ee7bdb-8c75-4bbb-831c-42b19aea3fc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/EnchantProject/game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantProject/game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="65ee7bdb-8c75-4bbb-831c-42b19aea3fc7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -35,8 +32,8 @@
       <file leaf-file-name="quotes_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="165">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -214,8 +211,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32935324" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32935324" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32935324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -329,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>

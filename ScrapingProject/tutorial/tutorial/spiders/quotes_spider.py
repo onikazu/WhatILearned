@@ -14,6 +14,7 @@ class QuotesSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
+        print("this is ", type(response))
         page = response.url.split("/")[-2]
         filename = 'quotes-{}.html'.format(page)
         with open(filename, 'wb') as f:
