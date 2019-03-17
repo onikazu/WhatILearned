@@ -1,5 +1,5 @@
 //
-// Created by 増村和季 on 2019/03/16.
+// Created by onikazu on 2019/03/16.
 //
 
 #include <iostream>

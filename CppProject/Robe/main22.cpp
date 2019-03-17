@@ -1,5 +1,5 @@
 //
-// Created by 増村和季 on 2019/03/15.
+// Created by onikazu on 2019/03/15.
 // this program have not worked yet...
 // utf-8 においては、もともとひらがななどの日本語文字は 3 バイトで表されます
 
