@@ -1209,6 +1209,318 @@ CMakeFiles/Robe.dir/main55.cpp.o.provides: CMakeFiles/Robe.dir/main55.cpp.o.requ
 CMakeFiles/Robe.dir/main55.cpp.o.provides.build: CMakeFiles/Robe.dir/main55.cpp.o
 
 
+CMakeFiles/Robe.dir/main56.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main56.cpp.o: ../main56.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Robe.dir/main56.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main56.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main56.cpp
+
+CMakeFiles/Robe.dir/main56.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main56.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main56.cpp > CMakeFiles/Robe.dir/main56.cpp.i
+
+CMakeFiles/Robe.dir/main56.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main56.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main56.cpp -o CMakeFiles/Robe.dir/main56.cpp.s
+
+CMakeFiles/Robe.dir/main56.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main56.cpp.o.requires
+
+CMakeFiles/Robe.dir/main56.cpp.o.provides: CMakeFiles/Robe.dir/main56.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main56.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main56.cpp.o.provides
+
+CMakeFiles/Robe.dir/main56.cpp.o.provides.build: CMakeFiles/Robe.dir/main56.cpp.o
+
+
+CMakeFiles/Robe.dir/main56_2.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main56_2.cpp.o: ../main56_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Robe.dir/main56_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main56_2.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main56_2.cpp
+
+CMakeFiles/Robe.dir/main56_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main56_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main56_2.cpp > CMakeFiles/Robe.dir/main56_2.cpp.i
+
+CMakeFiles/Robe.dir/main56_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main56_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main56_2.cpp -o CMakeFiles/Robe.dir/main56_2.cpp.s
+
+CMakeFiles/Robe.dir/main56_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main56_2.cpp.o.requires
+
+CMakeFiles/Robe.dir/main56_2.cpp.o.provides: CMakeFiles/Robe.dir/main56_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main56_2.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main56_2.cpp.o.provides
+
+CMakeFiles/Robe.dir/main56_2.cpp.o.provides.build: CMakeFiles/Robe.dir/main56_2.cpp.o
+
+
+CMakeFiles/Robe.dir/main57.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main57.cpp.o: ../main57.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Robe.dir/main57.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main57.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main57.cpp
+
+CMakeFiles/Robe.dir/main57.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main57.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main57.cpp > CMakeFiles/Robe.dir/main57.cpp.i
+
+CMakeFiles/Robe.dir/main57.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main57.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main57.cpp -o CMakeFiles/Robe.dir/main57.cpp.s
+
+CMakeFiles/Robe.dir/main57.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main57.cpp.o.requires
+
+CMakeFiles/Robe.dir/main57.cpp.o.provides: CMakeFiles/Robe.dir/main57.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main57.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main57.cpp.o.provides
+
+CMakeFiles/Robe.dir/main57.cpp.o.provides.build: CMakeFiles/Robe.dir/main57.cpp.o
+
+
+CMakeFiles/Robe.dir/main57_2.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main57_2.cpp.o: ../main57_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Robe.dir/main57_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main57_2.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main57_2.cpp
+
+CMakeFiles/Robe.dir/main57_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main57_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main57_2.cpp > CMakeFiles/Robe.dir/main57_2.cpp.i
+
+CMakeFiles/Robe.dir/main57_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main57_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main57_2.cpp -o CMakeFiles/Robe.dir/main57_2.cpp.s
+
+CMakeFiles/Robe.dir/main57_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main57_2.cpp.o.requires
+
+CMakeFiles/Robe.dir/main57_2.cpp.o.provides: CMakeFiles/Robe.dir/main57_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main57_2.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main57_2.cpp.o.provides
+
+CMakeFiles/Robe.dir/main57_2.cpp.o.provides.build: CMakeFiles/Robe.dir/main57_2.cpp.o
+
+
+CMakeFiles/Robe.dir/main59.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main59.cpp.o: ../main59.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Robe.dir/main59.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main59.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main59.cpp
+
+CMakeFiles/Robe.dir/main59.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main59.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main59.cpp > CMakeFiles/Robe.dir/main59.cpp.i
+
+CMakeFiles/Robe.dir/main59.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main59.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main59.cpp -o CMakeFiles/Robe.dir/main59.cpp.s
+
+CMakeFiles/Robe.dir/main59.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main59.cpp.o.requires
+
+CMakeFiles/Robe.dir/main59.cpp.o.provides: CMakeFiles/Robe.dir/main59.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main59.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main59.cpp.o.provides
+
+CMakeFiles/Robe.dir/main59.cpp.o.provides.build: CMakeFiles/Robe.dir/main59.cpp.o
+
+
+CMakeFiles/Robe.dir/main60.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main60.cpp.o: ../main60.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Robe.dir/main60.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main60.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main60.cpp
+
+CMakeFiles/Robe.dir/main60.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main60.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main60.cpp > CMakeFiles/Robe.dir/main60.cpp.i
+
+CMakeFiles/Robe.dir/main60.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main60.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main60.cpp -o CMakeFiles/Robe.dir/main60.cpp.s
+
+CMakeFiles/Robe.dir/main60.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main60.cpp.o.requires
+
+CMakeFiles/Robe.dir/main60.cpp.o.provides: CMakeFiles/Robe.dir/main60.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main60.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main60.cpp.o.provides
+
+CMakeFiles/Robe.dir/main60.cpp.o.provides.build: CMakeFiles/Robe.dir/main60.cpp.o
+
+
+CMakeFiles/Robe.dir/main60_2.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main60_2.cpp.o: ../main60_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Robe.dir/main60_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main60_2.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main60_2.cpp
+
+CMakeFiles/Robe.dir/main60_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main60_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main60_2.cpp > CMakeFiles/Robe.dir/main60_2.cpp.i
+
+CMakeFiles/Robe.dir/main60_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main60_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main60_2.cpp -o CMakeFiles/Robe.dir/main60_2.cpp.s
+
+CMakeFiles/Robe.dir/main60_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main60_2.cpp.o.requires
+
+CMakeFiles/Robe.dir/main60_2.cpp.o.provides: CMakeFiles/Robe.dir/main60_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main60_2.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main60_2.cpp.o.provides
+
+CMakeFiles/Robe.dir/main60_2.cpp.o.provides.build: CMakeFiles/Robe.dir/main60_2.cpp.o
+
+
+CMakeFiles/Robe.dir/main61.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main61.cpp.o: ../main61.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Robe.dir/main61.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main61.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main61.cpp
+
+CMakeFiles/Robe.dir/main61.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main61.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main61.cpp > CMakeFiles/Robe.dir/main61.cpp.i
+
+CMakeFiles/Robe.dir/main61.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main61.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main61.cpp -o CMakeFiles/Robe.dir/main61.cpp.s
+
+CMakeFiles/Robe.dir/main61.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main61.cpp.o.requires
+
+CMakeFiles/Robe.dir/main61.cpp.o.provides: CMakeFiles/Robe.dir/main61.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main61.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main61.cpp.o.provides
+
+CMakeFiles/Robe.dir/main61.cpp.o.provides.build: CMakeFiles/Robe.dir/main61.cpp.o
+
+
+CMakeFiles/Robe.dir/main64.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main64.cpp.o: ../main64.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Robe.dir/main64.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main64.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main64.cpp
+
+CMakeFiles/Robe.dir/main64.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main64.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main64.cpp > CMakeFiles/Robe.dir/main64.cpp.i
+
+CMakeFiles/Robe.dir/main64.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main64.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main64.cpp -o CMakeFiles/Robe.dir/main64.cpp.s
+
+CMakeFiles/Robe.dir/main64.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main64.cpp.o.requires
+
+CMakeFiles/Robe.dir/main64.cpp.o.provides: CMakeFiles/Robe.dir/main64.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main64.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main64.cpp.o.provides
+
+CMakeFiles/Robe.dir/main64.cpp.o.provides.build: CMakeFiles/Robe.dir/main64.cpp.o
+
+
+CMakeFiles/Robe.dir/main67.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main67.cpp.o: ../main67.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Robe.dir/main67.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main67.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main67.cpp
+
+CMakeFiles/Robe.dir/main67.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main67.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main67.cpp > CMakeFiles/Robe.dir/main67.cpp.i
+
+CMakeFiles/Robe.dir/main67.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main67.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main67.cpp -o CMakeFiles/Robe.dir/main67.cpp.s
+
+CMakeFiles/Robe.dir/main67.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main67.cpp.o.requires
+
+CMakeFiles/Robe.dir/main67.cpp.o.provides: CMakeFiles/Robe.dir/main67.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main67.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main67.cpp.o.provides
+
+CMakeFiles/Robe.dir/main67.cpp.o.provides.build: CMakeFiles/Robe.dir/main67.cpp.o
+
+
+CMakeFiles/Robe.dir/main68.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main68.cpp.o: ../main68.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Robe.dir/main68.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main68.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main68.cpp
+
+CMakeFiles/Robe.dir/main68.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main68.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main68.cpp > CMakeFiles/Robe.dir/main68.cpp.i
+
+CMakeFiles/Robe.dir/main68.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main68.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main68.cpp -o CMakeFiles/Robe.dir/main68.cpp.s
+
+CMakeFiles/Robe.dir/main68.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main68.cpp.o.requires
+
+CMakeFiles/Robe.dir/main68.cpp.o.provides: CMakeFiles/Robe.dir/main68.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main68.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main68.cpp.o.provides
+
+CMakeFiles/Robe.dir/main68.cpp.o.provides.build: CMakeFiles/Robe.dir/main68.cpp.o
+
+
+CMakeFiles/Robe.dir/main69.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main69.cpp.o: ../main69.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Robe.dir/main69.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main69.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main69.cpp
+
+CMakeFiles/Robe.dir/main69.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main69.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main69.cpp > CMakeFiles/Robe.dir/main69.cpp.i
+
+CMakeFiles/Robe.dir/main69.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main69.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main69.cpp -o CMakeFiles/Robe.dir/main69.cpp.s
+
+CMakeFiles/Robe.dir/main69.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main69.cpp.o.requires
+
+CMakeFiles/Robe.dir/main69.cpp.o.provides: CMakeFiles/Robe.dir/main69.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main69.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main69.cpp.o.provides
+
+CMakeFiles/Robe.dir/main69.cpp.o.provides.build: CMakeFiles/Robe.dir/main69.cpp.o
+
+
+CMakeFiles/Robe.dir/main69_2.cpp.o: CMakeFiles/Robe.dir/flags.make
+CMakeFiles/Robe.dir/main69_2.cpp.o: ../main69_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Robe.dir/main69_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Robe.dir/main69_2.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/Robe/main69_2.cpp
+
+CMakeFiles/Robe.dir/main69_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Robe.dir/main69_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/Robe/main69_2.cpp > CMakeFiles/Robe.dir/main69_2.cpp.i
+
+CMakeFiles/Robe.dir/main69_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Robe.dir/main69_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/Robe/main69_2.cpp -o CMakeFiles/Robe.dir/main69_2.cpp.s
+
+CMakeFiles/Robe.dir/main69_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Robe.dir/main69_2.cpp.o.requires
+
+CMakeFiles/Robe.dir/main69_2.cpp.o.provides: CMakeFiles/Robe.dir/main69_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Robe.dir/build.make CMakeFiles/Robe.dir/main69_2.cpp.o.provides.build
+.PHONY : CMakeFiles/Robe.dir/main69_2.cpp.o.provides
+
+CMakeFiles/Robe.dir/main69_2.cpp.o.provides.build: CMakeFiles/Robe.dir/main69_2.cpp.o
+
+
 # Object files for target Robe
 Robe_OBJECTS = \
 "CMakeFiles/Robe.dir/main2.cpp.o" \
@@ -1258,7 +1570,20 @@ Robe_OBJECTS = \
 "CMakeFiles/Robe.dir/main51.cpp.o" \
 "CMakeFiles/Robe.dir/main52.cpp.o" \
 "CMakeFiles/Robe.dir/main54.cpp.o" \
-"CMakeFiles/Robe.dir/main55.cpp.o"
+"CMakeFiles/Robe.dir/main55.cpp.o" \
+"CMakeFiles/Robe.dir/main56.cpp.o" \
+"CMakeFiles/Robe.dir/main56_2.cpp.o" \
+"CMakeFiles/Robe.dir/main57.cpp.o" \
+"CMakeFiles/Robe.dir/main57_2.cpp.o" \
+"CMakeFiles/Robe.dir/main59.cpp.o" \
+"CMakeFiles/Robe.dir/main60.cpp.o" \
+"CMakeFiles/Robe.dir/main60_2.cpp.o" \
+"CMakeFiles/Robe.dir/main61.cpp.o" \
+"CMakeFiles/Robe.dir/main64.cpp.o" \
+"CMakeFiles/Robe.dir/main67.cpp.o" \
+"CMakeFiles/Robe.dir/main68.cpp.o" \
+"CMakeFiles/Robe.dir/main69.cpp.o" \
+"CMakeFiles/Robe.dir/main69_2.cpp.o"
 
 # External object files for target Robe
 Robe_EXTERNAL_OBJECTS =
@@ -1311,9 +1636,22 @@ Robe: CMakeFiles/Robe.dir/main51.cpp.o
 Robe: CMakeFiles/Robe.dir/main52.cpp.o
 Robe: CMakeFiles/Robe.dir/main54.cpp.o
 Robe: CMakeFiles/Robe.dir/main55.cpp.o
+Robe: CMakeFiles/Robe.dir/main56.cpp.o
+Robe: CMakeFiles/Robe.dir/main56_2.cpp.o
+Robe: CMakeFiles/Robe.dir/main57.cpp.o
+Robe: CMakeFiles/Robe.dir/main57_2.cpp.o
+Robe: CMakeFiles/Robe.dir/main59.cpp.o
+Robe: CMakeFiles/Robe.dir/main60.cpp.o
+Robe: CMakeFiles/Robe.dir/main60_2.cpp.o
+Robe: CMakeFiles/Robe.dir/main61.cpp.o
+Robe: CMakeFiles/Robe.dir/main64.cpp.o
+Robe: CMakeFiles/Robe.dir/main67.cpp.o
+Robe: CMakeFiles/Robe.dir/main68.cpp.o
+Robe: CMakeFiles/Robe.dir/main69.cpp.o
+Robe: CMakeFiles/Robe.dir/main69_2.cpp.o
 Robe: CMakeFiles/Robe.dir/build.make
 Robe: CMakeFiles/Robe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable Robe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/Robe/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Linking CXX executable Robe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Robe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1369,6 +1707,19 @@ CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main51.cpp.o.requires
 CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main52.cpp.o.requires
 CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main54.cpp.o.requires
 CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main55.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main56.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main56_2.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main57.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main57_2.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main59.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main60.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main60_2.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main61.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main64.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main67.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main68.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main69.cpp.o.requires
+CMakeFiles/Robe.dir/requires: CMakeFiles/Robe.dir/main69_2.cpp.o.requires
 
 .PHONY : CMakeFiles/Robe.dir/requires
 

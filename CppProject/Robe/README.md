@@ -30,3 +30,6 @@ unsigned int -> unsigned long
 
 ### 第55章
 gets関数はC11で消えた
+
+### 第69章
+動作せず
