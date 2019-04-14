@@ -123,6 +123,114 @@ AtCoder/fast:
 	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/build
 .PHONY : AtCoder/fast
 
+QiitaPractice/abc055b.o: QiitaPractice/abc055b.cpp.o
+
+.PHONY : QiitaPractice/abc055b.o
+
+# target to build an object file
+QiitaPractice/abc055b.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o
+.PHONY : QiitaPractice/abc055b.cpp.o
+
+QiitaPractice/abc055b.i: QiitaPractice/abc055b.cpp.i
+
+.PHONY : QiitaPractice/abc055b.i
+
+# target to preprocess a source file
+QiitaPractice/abc055b.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.i
+.PHONY : QiitaPractice/abc055b.cpp.i
+
+QiitaPractice/abc055b.s: QiitaPractice/abc055b.cpp.s
+
+.PHONY : QiitaPractice/abc055b.s
+
+# target to generate assembly for a file
+QiitaPractice/abc055b.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.s
+.PHONY : QiitaPractice/abc055b.cpp.s
+
+QiitaPractice/abc060b.o: QiitaPractice/abc060b.cpp.o
+
+.PHONY : QiitaPractice/abc060b.o
+
+# target to build an object file
+QiitaPractice/abc060b.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o
+.PHONY : QiitaPractice/abc060b.cpp.o
+
+QiitaPractice/abc060b.i: QiitaPractice/abc060b.cpp.i
+
+.PHONY : QiitaPractice/abc060b.i
+
+# target to preprocess a source file
+QiitaPractice/abc060b.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.i
+.PHONY : QiitaPractice/abc060b.cpp.i
+
+QiitaPractice/abc060b.s: QiitaPractice/abc060b.cpp.s
+
+.PHONY : QiitaPractice/abc060b.s
+
+# target to generate assembly for a file
+QiitaPractice/abc060b.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.s
+.PHONY : QiitaPractice/abc060b.cpp.s
+
+QiitaPractice/abc070b.o: QiitaPractice/abc070b.cpp.o
+
+.PHONY : QiitaPractice/abc070b.o
+
+# target to build an object file
+QiitaPractice/abc070b.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o
+.PHONY : QiitaPractice/abc070b.cpp.o
+
+QiitaPractice/abc070b.i: QiitaPractice/abc070b.cpp.i
+
+.PHONY : QiitaPractice/abc070b.i
+
+# target to preprocess a source file
+QiitaPractice/abc070b.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.i
+.PHONY : QiitaPractice/abc070b.cpp.i
+
+QiitaPractice/abc070b.s: QiitaPractice/abc070b.cpp.s
+
+.PHONY : QiitaPractice/abc070b.s
+
+# target to generate assembly for a file
+QiitaPractice/abc070b.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.s
+.PHONY : QiitaPractice/abc070b.cpp.s
+
+QiitaPractice/abc087c.o: QiitaPractice/abc087c.cpp.o
+
+.PHONY : QiitaPractice/abc087c.o
+
+# target to build an object file
+QiitaPractice/abc087c.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o
+.PHONY : QiitaPractice/abc087c.cpp.o
+
+QiitaPractice/abc087c.i: QiitaPractice/abc087c.cpp.i
+
+.PHONY : QiitaPractice/abc087c.i
+
+# target to preprocess a source file
+QiitaPractice/abc087c.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.i
+.PHONY : QiitaPractice/abc087c.cpp.i
+
+QiitaPractice/abc087c.s: QiitaPractice/abc087c.cpp.s
+
+.PHONY : QiitaPractice/abc087c.s
+
+# target to generate assembly for a file
+QiitaPractice/abc087c.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.s
+.PHONY : QiitaPractice/abc087c.cpp.s
+
 QiitaPractice/practice1.o: QiitaPractice/practice1.cpp.o
 
 .PHONY : QiitaPractice/practice1.o
@@ -149,6 +257,33 @@ QiitaPractice/practice1.s: QiitaPractice/practice1.cpp.s
 QiitaPractice/practice1.cpp.s:
 	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.s
 .PHONY : QiitaPractice/practice1.cpp.s
+
+QiitaPractice/practice10.o: QiitaPractice/practice10.cpp.o
+
+.PHONY : QiitaPractice/practice10.o
+
+# target to build an object file
+QiitaPractice/practice10.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o
+.PHONY : QiitaPractice/practice10.cpp.o
+
+QiitaPractice/practice10.i: QiitaPractice/practice10.cpp.i
+
+.PHONY : QiitaPractice/practice10.i
+
+# target to preprocess a source file
+QiitaPractice/practice10.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.i
+.PHONY : QiitaPractice/practice10.cpp.i
+
+QiitaPractice/practice10.s: QiitaPractice/practice10.cpp.s
+
+.PHONY : QiitaPractice/practice10.s
+
+# target to generate assembly for a file
+QiitaPractice/practice10.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.s
+.PHONY : QiitaPractice/practice10.cpp.s
 
 QiitaPractice/practice2.o: QiitaPractice/practice2.cpp.o
 
@@ -177,6 +312,222 @@ QiitaPractice/practice2.cpp.s:
 	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.s
 .PHONY : QiitaPractice/practice2.cpp.s
 
+QiitaPractice/practice3.o: QiitaPractice/practice3.cpp.o
+
+.PHONY : QiitaPractice/practice3.o
+
+# target to build an object file
+QiitaPractice/practice3.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o
+.PHONY : QiitaPractice/practice3.cpp.o
+
+QiitaPractice/practice3.i: QiitaPractice/practice3.cpp.i
+
+.PHONY : QiitaPractice/practice3.i
+
+# target to preprocess a source file
+QiitaPractice/practice3.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.i
+.PHONY : QiitaPractice/practice3.cpp.i
+
+QiitaPractice/practice3.s: QiitaPractice/practice3.cpp.s
+
+.PHONY : QiitaPractice/practice3.s
+
+# target to generate assembly for a file
+QiitaPractice/practice3.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.s
+.PHONY : QiitaPractice/practice3.cpp.s
+
+QiitaPractice/practice4.o: QiitaPractice/practice4.cpp.o
+
+.PHONY : QiitaPractice/practice4.o
+
+# target to build an object file
+QiitaPractice/practice4.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o
+.PHONY : QiitaPractice/practice4.cpp.o
+
+QiitaPractice/practice4.i: QiitaPractice/practice4.cpp.i
+
+.PHONY : QiitaPractice/practice4.i
+
+# target to preprocess a source file
+QiitaPractice/practice4.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.i
+.PHONY : QiitaPractice/practice4.cpp.i
+
+QiitaPractice/practice4.s: QiitaPractice/practice4.cpp.s
+
+.PHONY : QiitaPractice/practice4.s
+
+# target to generate assembly for a file
+QiitaPractice/practice4.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.s
+.PHONY : QiitaPractice/practice4.cpp.s
+
+QiitaPractice/practice5.o: QiitaPractice/practice5.cpp.o
+
+.PHONY : QiitaPractice/practice5.o
+
+# target to build an object file
+QiitaPractice/practice5.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o
+.PHONY : QiitaPractice/practice5.cpp.o
+
+QiitaPractice/practice5.i: QiitaPractice/practice5.cpp.i
+
+.PHONY : QiitaPractice/practice5.i
+
+# target to preprocess a source file
+QiitaPractice/practice5.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.i
+.PHONY : QiitaPractice/practice5.cpp.i
+
+QiitaPractice/practice5.s: QiitaPractice/practice5.cpp.s
+
+.PHONY : QiitaPractice/practice5.s
+
+# target to generate assembly for a file
+QiitaPractice/practice5.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.s
+.PHONY : QiitaPractice/practice5.cpp.s
+
+QiitaPractice/practice6.o: QiitaPractice/practice6.cpp.o
+
+.PHONY : QiitaPractice/practice6.o
+
+# target to build an object file
+QiitaPractice/practice6.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o
+.PHONY : QiitaPractice/practice6.cpp.o
+
+QiitaPractice/practice6.i: QiitaPractice/practice6.cpp.i
+
+.PHONY : QiitaPractice/practice6.i
+
+# target to preprocess a source file
+QiitaPractice/practice6.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.i
+.PHONY : QiitaPractice/practice6.cpp.i
+
+QiitaPractice/practice6.s: QiitaPractice/practice6.cpp.s
+
+.PHONY : QiitaPractice/practice6.s
+
+# target to generate assembly for a file
+QiitaPractice/practice6.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.s
+.PHONY : QiitaPractice/practice6.cpp.s
+
+QiitaPractice/practice7.o: QiitaPractice/practice7.cpp.o
+
+.PHONY : QiitaPractice/practice7.o
+
+# target to build an object file
+QiitaPractice/practice7.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o
+.PHONY : QiitaPractice/practice7.cpp.o
+
+QiitaPractice/practice7.i: QiitaPractice/practice7.cpp.i
+
+.PHONY : QiitaPractice/practice7.i
+
+# target to preprocess a source file
+QiitaPractice/practice7.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.i
+.PHONY : QiitaPractice/practice7.cpp.i
+
+QiitaPractice/practice7.s: QiitaPractice/practice7.cpp.s
+
+.PHONY : QiitaPractice/practice7.s
+
+# target to generate assembly for a file
+QiitaPractice/practice7.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.s
+.PHONY : QiitaPractice/practice7.cpp.s
+
+QiitaPractice/practice8.o: QiitaPractice/practice8.cpp.o
+
+.PHONY : QiitaPractice/practice8.o
+
+# target to build an object file
+QiitaPractice/practice8.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o
+.PHONY : QiitaPractice/practice8.cpp.o
+
+QiitaPractice/practice8.i: QiitaPractice/practice8.cpp.i
+
+.PHONY : QiitaPractice/practice8.i
+
+# target to preprocess a source file
+QiitaPractice/practice8.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.i
+.PHONY : QiitaPractice/practice8.cpp.i
+
+QiitaPractice/practice8.s: QiitaPractice/practice8.cpp.s
+
+.PHONY : QiitaPractice/practice8.s
+
+# target to generate assembly for a file
+QiitaPractice/practice8.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.s
+.PHONY : QiitaPractice/practice8.cpp.s
+
+QiitaPractice/practice9.o: QiitaPractice/practice9.cpp.o
+
+.PHONY : QiitaPractice/practice9.o
+
+# target to build an object file
+QiitaPractice/practice9.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o
+.PHONY : QiitaPractice/practice9.cpp.o
+
+QiitaPractice/practice9.i: QiitaPractice/practice9.cpp.i
+
+.PHONY : QiitaPractice/practice9.i
+
+# target to preprocess a source file
+QiitaPractice/practice9.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.i
+.PHONY : QiitaPractice/practice9.cpp.i
+
+QiitaPractice/practice9.s: QiitaPractice/practice9.cpp.s
+
+.PHONY : QiitaPractice/practice9.s
+
+# target to generate assembly for a file
+QiitaPractice/practice9.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.s
+.PHONY : QiitaPractice/practice9.cpp.s
+
+QiitaPractice/practice9_correct.o: QiitaPractice/practice9_correct.cpp.o
+
+.PHONY : QiitaPractice/practice9_correct.o
+
+# target to build an object file
+QiitaPractice/practice9_correct.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o
+.PHONY : QiitaPractice/practice9_correct.cpp.o
+
+QiitaPractice/practice9_correct.i: QiitaPractice/practice9_correct.cpp.i
+
+.PHONY : QiitaPractice/practice9_correct.i
+
+# target to preprocess a source file
+QiitaPractice/practice9_correct.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.i
+.PHONY : QiitaPractice/practice9_correct.cpp.i
+
+QiitaPractice/practice9_correct.s: QiitaPractice/practice9_correct.cpp.s
+
+.PHONY : QiitaPractice/practice9_correct.s
+
+# target to generate assembly for a file
+QiitaPractice/practice9_correct.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.s
+.PHONY : QiitaPractice/practice9_correct.cpp.s
+
 Tutorial/practice1.o: Tutorial/practice1.cpp.o
 
 .PHONY : Tutorial/practice1.o
@@ -204,32 +555,167 @@ Tutorial/practice1.cpp.s:
 	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.s
 .PHONY : Tutorial/practice1.cpp.s
 
-main.o: main.cpp.o
+abc124/a.o: abc124/a.cpp.o
 
-.PHONY : main.o
+.PHONY : abc124/a.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/main.cpp.o
-.PHONY : main.cpp.o
+abc124/a.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/a.cpp.o
+.PHONY : abc124/a.cpp.o
 
-main.i: main.cpp.i
+abc124/a.i: abc124/a.cpp.i
 
-.PHONY : main.i
+.PHONY : abc124/a.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/main.cpp.i
-.PHONY : main.cpp.i
+abc124/a.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/a.cpp.i
+.PHONY : abc124/a.cpp.i
 
-main.s: main.cpp.s
+abc124/a.s: abc124/a.cpp.s
 
-.PHONY : main.s
+.PHONY : abc124/a.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/main.cpp.s
-.PHONY : main.cpp.s
+abc124/a.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/a.cpp.s
+.PHONY : abc124/a.cpp.s
+
+abc124/b.o: abc124/b.cpp.o
+
+.PHONY : abc124/b.o
+
+# target to build an object file
+abc124/b.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/b.cpp.o
+.PHONY : abc124/b.cpp.o
+
+abc124/b.i: abc124/b.cpp.i
+
+.PHONY : abc124/b.i
+
+# target to preprocess a source file
+abc124/b.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/b.cpp.i
+.PHONY : abc124/b.cpp.i
+
+abc124/b.s: abc124/b.cpp.s
+
+.PHONY : abc124/b.s
+
+# target to generate assembly for a file
+abc124/b.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/b.cpp.s
+.PHONY : abc124/b.cpp.s
+
+abc124/c.o: abc124/c.cpp.o
+
+.PHONY : abc124/c.o
+
+# target to build an object file
+abc124/c.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/c.cpp.o
+.PHONY : abc124/c.cpp.o
+
+abc124/c.i: abc124/c.cpp.i
+
+.PHONY : abc124/c.i
+
+# target to preprocess a source file
+abc124/c.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/c.cpp.i
+.PHONY : abc124/c.cpp.i
+
+abc124/c.s: abc124/c.cpp.s
+
+.PHONY : abc124/c.s
+
+# target to generate assembly for a file
+abc124/c.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/c.cpp.s
+.PHONY : abc124/c.cpp.s
+
+abc124/d.o: abc124/d.cpp.o
+
+.PHONY : abc124/d.o
+
+# target to build an object file
+abc124/d.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d.cpp.o
+.PHONY : abc124/d.cpp.o
+
+abc124/d.i: abc124/d.cpp.i
+
+.PHONY : abc124/d.i
+
+# target to preprocess a source file
+abc124/d.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d.cpp.i
+.PHONY : abc124/d.cpp.i
+
+abc124/d.s: abc124/d.cpp.s
+
+.PHONY : abc124/d.s
+
+# target to generate assembly for a file
+abc124/d.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d.cpp.s
+.PHONY : abc124/d.cpp.s
+
+abc124/d2.o: abc124/d2.cpp.o
+
+.PHONY : abc124/d2.o
+
+# target to build an object file
+abc124/d2.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d2.cpp.o
+.PHONY : abc124/d2.cpp.o
+
+abc124/d2.i: abc124/d2.cpp.i
+
+.PHONY : abc124/d2.i
+
+# target to preprocess a source file
+abc124/d2.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d2.cpp.i
+.PHONY : abc124/d2.cpp.i
+
+abc124/d2.s: abc124/d2.cpp.s
+
+.PHONY : abc124/d2.s
+
+# target to generate assembly for a file
+abc124/d2.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d2.cpp.s
+.PHONY : abc124/d2.cpp.s
+
+memo.o: memo.cpp.o
+
+.PHONY : memo.o
+
+# target to build an object file
+memo.cpp.o:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/memo.cpp.o
+.PHONY : memo.cpp.o
+
+memo.i: memo.cpp.i
+
+.PHONY : memo.i
+
+# target to preprocess a source file
+memo.cpp.i:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/memo.cpp.i
+.PHONY : memo.cpp.i
+
+memo.s: memo.cpp.s
+
+.PHONY : memo.s
+
+# target to generate assembly for a file
+memo.cpp.s:
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/memo.cpp.s
+.PHONY : memo.cpp.s
 
 # Help Target
 help:
@@ -240,18 +726,72 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... AtCoder"
+	@echo "... QiitaPractice/abc055b.o"
+	@echo "... QiitaPractice/abc055b.i"
+	@echo "... QiitaPractice/abc055b.s"
+	@echo "... QiitaPractice/abc060b.o"
+	@echo "... QiitaPractice/abc060b.i"
+	@echo "... QiitaPractice/abc060b.s"
+	@echo "... QiitaPractice/abc070b.o"
+	@echo "... QiitaPractice/abc070b.i"
+	@echo "... QiitaPractice/abc070b.s"
+	@echo "... QiitaPractice/abc087c.o"
+	@echo "... QiitaPractice/abc087c.i"
+	@echo "... QiitaPractice/abc087c.s"
 	@echo "... QiitaPractice/practice1.o"
 	@echo "... QiitaPractice/practice1.i"
 	@echo "... QiitaPractice/practice1.s"
+	@echo "... QiitaPractice/practice10.o"
+	@echo "... QiitaPractice/practice10.i"
+	@echo "... QiitaPractice/practice10.s"
 	@echo "... QiitaPractice/practice2.o"
 	@echo "... QiitaPractice/practice2.i"
 	@echo "... QiitaPractice/practice2.s"
+	@echo "... QiitaPractice/practice3.o"
+	@echo "... QiitaPractice/practice3.i"
+	@echo "... QiitaPractice/practice3.s"
+	@echo "... QiitaPractice/practice4.o"
+	@echo "... QiitaPractice/practice4.i"
+	@echo "... QiitaPractice/practice4.s"
+	@echo "... QiitaPractice/practice5.o"
+	@echo "... QiitaPractice/practice5.i"
+	@echo "... QiitaPractice/practice5.s"
+	@echo "... QiitaPractice/practice6.o"
+	@echo "... QiitaPractice/practice6.i"
+	@echo "... QiitaPractice/practice6.s"
+	@echo "... QiitaPractice/practice7.o"
+	@echo "... QiitaPractice/practice7.i"
+	@echo "... QiitaPractice/practice7.s"
+	@echo "... QiitaPractice/practice8.o"
+	@echo "... QiitaPractice/practice8.i"
+	@echo "... QiitaPractice/practice8.s"
+	@echo "... QiitaPractice/practice9.o"
+	@echo "... QiitaPractice/practice9.i"
+	@echo "... QiitaPractice/practice9.s"
+	@echo "... QiitaPractice/practice9_correct.o"
+	@echo "... QiitaPractice/practice9_correct.i"
+	@echo "... QiitaPractice/practice9_correct.s"
 	@echo "... Tutorial/practice1.o"
 	@echo "... Tutorial/practice1.i"
 	@echo "... Tutorial/practice1.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... abc124/a.o"
+	@echo "... abc124/a.i"
+	@echo "... abc124/a.s"
+	@echo "... abc124/b.o"
+	@echo "... abc124/b.i"
+	@echo "... abc124/b.s"
+	@echo "... abc124/c.o"
+	@echo "... abc124/c.i"
+	@echo "... abc124/c.s"
+	@echo "... abc124/d.o"
+	@echo "... abc124/d.i"
+	@echo "... abc124/d.s"
+	@echo "... abc124/d2.o"
+	@echo "... abc124/d2.i"
+	@echo "... abc124/d2.s"
+	@echo "... memo.o"
+	@echo "... memo.i"
+	@echo "... memo.s"
 .PHONY : help
 
 

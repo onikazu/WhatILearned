@@ -57,33 +57,9 @@ include CMakeFiles/AtCoder.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AtCoder.dir/flags.make
 
-CMakeFiles/AtCoder.dir/main.cpp.o: CMakeFiles/AtCoder.dir/flags.make
-CMakeFiles/AtCoder.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AtCoder.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/main.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/main.cpp
-
-CMakeFiles/AtCoder.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/main.cpp > CMakeFiles/AtCoder.dir/main.cpp.i
-
-CMakeFiles/AtCoder.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/main.cpp -o CMakeFiles/AtCoder.dir/main.cpp.s
-
-CMakeFiles/AtCoder.dir/main.cpp.o.requires:
-
-.PHONY : CMakeFiles/AtCoder.dir/main.cpp.o.requires
-
-CMakeFiles/AtCoder.dir/main.cpp.o.provides: CMakeFiles/AtCoder.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/AtCoder.dir/main.cpp.o.provides
-
-CMakeFiles/AtCoder.dir/main.cpp.o.provides.build: CMakeFiles/AtCoder.dir/main.cpp.o
-
-
 CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o: CMakeFiles/AtCoder.dir/flags.make
 CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o: ../Tutorial/practice1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/Tutorial/practice1.cpp
 
 CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.i: cmake_force
@@ -107,7 +83,7 @@ CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o.provides.build: CMakeFiles/AtCod
 
 CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o: CMakeFiles/AtCoder.dir/flags.make
 CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o: ../QiitaPractice/practice1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice1.cpp
 
 CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.i: cmake_force
@@ -131,7 +107,7 @@ CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o: CMakeFiles/AtCoder.dir/flags.make
 CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o: ../QiitaPractice/practice2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice2.cpp
 
 CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.i: cmake_force
@@ -153,23 +129,515 @@ CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o.provides: CMakeFiles/AtCode
 CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o
 
 
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o: ../QiitaPractice/practice3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice3.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice3.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice3.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o: ../QiitaPractice/practice4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice4.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice4.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice4.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o: ../QiitaPractice/practice5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice5.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice5.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice5.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o: ../QiitaPractice/practice6.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice6.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice6.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice6.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o: ../QiitaPractice/practice7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice7.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice7.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice7.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o: ../QiitaPractice/practice8.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice8.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice8.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice8.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o: ../QiitaPractice/practice9.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice9.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice9.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice9.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o: ../QiitaPractice/practice9_correct.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice9_correct.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice9_correct.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice9_correct.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o: ../QiitaPractice/practice10.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice10.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice10.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/practice10.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o
+
+
+CMakeFiles/AtCoder.dir/memo.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/memo.cpp.o: ../memo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/AtCoder.dir/memo.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/memo.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/memo.cpp
+
+CMakeFiles/AtCoder.dir/memo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/memo.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/memo.cpp > CMakeFiles/AtCoder.dir/memo.cpp.i
+
+CMakeFiles/AtCoder.dir/memo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/memo.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/memo.cpp -o CMakeFiles/AtCoder.dir/memo.cpp.s
+
+CMakeFiles/AtCoder.dir/memo.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/memo.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/memo.cpp.o.provides: CMakeFiles/AtCoder.dir/memo.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/memo.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/memo.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/memo.cpp.o.provides.build: CMakeFiles/AtCoder.dir/memo.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o: ../QiitaPractice/abc070b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc070b.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc070b.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc070b.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o: ../QiitaPractice/abc055b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc055b.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc055b.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc055b.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o: ../QiitaPractice/abc087c.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc087c.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc087c.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc087c.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o
+
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o: ../QiitaPractice/abc060b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc060b.cpp
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc060b.cpp > CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.i
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/QiitaPractice/abc060b.cpp -o CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.s
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.provides: CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.provides.build: CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o
+
+
+CMakeFiles/AtCoder.dir/abc124/a.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/abc124/a.cpp.o: ../abc124/a.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/AtCoder.dir/abc124/a.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/abc124/a.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/a.cpp
+
+CMakeFiles/AtCoder.dir/abc124/a.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/abc124/a.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/a.cpp > CMakeFiles/AtCoder.dir/abc124/a.cpp.i
+
+CMakeFiles/AtCoder.dir/abc124/a.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/abc124/a.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/a.cpp -o CMakeFiles/AtCoder.dir/abc124/a.cpp.s
+
+CMakeFiles/AtCoder.dir/abc124/a.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/abc124/a.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/abc124/a.cpp.o.provides: CMakeFiles/AtCoder.dir/abc124/a.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/a.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/abc124/a.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/abc124/a.cpp.o.provides.build: CMakeFiles/AtCoder.dir/abc124/a.cpp.o
+
+
+CMakeFiles/AtCoder.dir/abc124/b.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/abc124/b.cpp.o: ../abc124/b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/AtCoder.dir/abc124/b.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/abc124/b.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/b.cpp
+
+CMakeFiles/AtCoder.dir/abc124/b.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/abc124/b.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/b.cpp > CMakeFiles/AtCoder.dir/abc124/b.cpp.i
+
+CMakeFiles/AtCoder.dir/abc124/b.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/abc124/b.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/b.cpp -o CMakeFiles/AtCoder.dir/abc124/b.cpp.s
+
+CMakeFiles/AtCoder.dir/abc124/b.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/abc124/b.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/abc124/b.cpp.o.provides: CMakeFiles/AtCoder.dir/abc124/b.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/b.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/abc124/b.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/abc124/b.cpp.o.provides.build: CMakeFiles/AtCoder.dir/abc124/b.cpp.o
+
+
+CMakeFiles/AtCoder.dir/abc124/c.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/abc124/c.cpp.o: ../abc124/c.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/AtCoder.dir/abc124/c.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/abc124/c.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/c.cpp
+
+CMakeFiles/AtCoder.dir/abc124/c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/abc124/c.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/c.cpp > CMakeFiles/AtCoder.dir/abc124/c.cpp.i
+
+CMakeFiles/AtCoder.dir/abc124/c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/abc124/c.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/c.cpp -o CMakeFiles/AtCoder.dir/abc124/c.cpp.s
+
+CMakeFiles/AtCoder.dir/abc124/c.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/abc124/c.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/abc124/c.cpp.o.provides: CMakeFiles/AtCoder.dir/abc124/c.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/c.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/abc124/c.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/abc124/c.cpp.o.provides.build: CMakeFiles/AtCoder.dir/abc124/c.cpp.o
+
+
+CMakeFiles/AtCoder.dir/abc124/d.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/abc124/d.cpp.o: ../abc124/d.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/AtCoder.dir/abc124/d.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/abc124/d.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/d.cpp
+
+CMakeFiles/AtCoder.dir/abc124/d.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/abc124/d.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/d.cpp > CMakeFiles/AtCoder.dir/abc124/d.cpp.i
+
+CMakeFiles/AtCoder.dir/abc124/d.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/abc124/d.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/d.cpp -o CMakeFiles/AtCoder.dir/abc124/d.cpp.s
+
+CMakeFiles/AtCoder.dir/abc124/d.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/abc124/d.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/abc124/d.cpp.o.provides: CMakeFiles/AtCoder.dir/abc124/d.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/abc124/d.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/abc124/d.cpp.o.provides.build: CMakeFiles/AtCoder.dir/abc124/d.cpp.o
+
+
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.o: ../abc124/d2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/AtCoder.dir/abc124/d2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/abc124/d2.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/d2.cpp
+
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/abc124/d2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/d2.cpp > CMakeFiles/AtCoder.dir/abc124/d2.cpp.i
+
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/abc124/d2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/abc124/d2.cpp -o CMakeFiles/AtCoder.dir/abc124/d2.cpp.s
+
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.provides: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.provides.build: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o
+
+
 # Object files for target AtCoder
 AtCoder_OBJECTS = \
-"CMakeFiles/AtCoder.dir/main.cpp.o" \
 "CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o" \
 "CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o" \
-"CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o"
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o" \
+"CMakeFiles/AtCoder.dir/memo.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o" \
+"CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o" \
+"CMakeFiles/AtCoder.dir/abc124/a.cpp.o" \
+"CMakeFiles/AtCoder.dir/abc124/b.cpp.o" \
+"CMakeFiles/AtCoder.dir/abc124/c.cpp.o" \
+"CMakeFiles/AtCoder.dir/abc124/d.cpp.o" \
+"CMakeFiles/AtCoder.dir/abc124/d2.cpp.o"
 
 # External object files for target AtCoder
 AtCoder_EXTERNAL_OBJECTS =
 
-AtCoder: CMakeFiles/AtCoder.dir/main.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/memo.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/abc124/a.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/abc124/b.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/abc124/c.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/abc124/d.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/build.make
 AtCoder: CMakeFiles/AtCoder.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable AtCoder"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable AtCoder"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AtCoder.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -177,10 +645,28 @@ CMakeFiles/AtCoder.dir/build: AtCoder
 
 .PHONY : CMakeFiles/AtCoder.dir/build
 
-CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/main.cpp.o.requires
 CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o.requires
 CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice1.cpp.o.requires
 CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice2.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice3.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice4.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice5.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice6.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice7.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice8.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice9.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice9_correct.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/practice10.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/memo.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/abc070b.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/abc055b.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/abc087c.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/QiitaPractice/abc060b.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/a.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/b.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/c.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/d.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.requires
 
 .PHONY : CMakeFiles/AtCoder.dir/requires
 
