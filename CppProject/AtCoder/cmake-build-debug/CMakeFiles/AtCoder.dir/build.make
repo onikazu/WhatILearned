@@ -585,6 +585,222 @@ CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.provides: CMakeFiles/AtCoder.dir/abc124/d
 CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.provides.build: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o
 
 
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o: ../AntBookBeginer/arc004a.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/arc004a.cpp
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/arc004a.cpp > CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.i
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/arc004a.cpp -o CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.s
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.provides: CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.provides.build: CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o
+
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o: ../AntBookBeginer/abc051b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/abc051b.cpp
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/abc051b.cpp > CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.i
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/abc051b.cpp -o CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.s
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.provides: CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.provides.build: CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o
+
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o: ../AntBookBeginer/abc085c.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/abc085c.cpp
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/abc085c.cpp > CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.i
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/abc085c.cpp -o CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.s
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.provides: CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.provides.build: CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o
+
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o: ../AntBookBeginer/arc061c.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/arc061c.cpp
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/arc061c.cpp > CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.i
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/AntBookBeginer/arc061c.cpp -o CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.s
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.provides: CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.provides.build: CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o
+
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o: ../tenka1bc2019/a.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/a.cpp
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/a.cpp > CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.i
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/a.cpp -o CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.s
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.provides: CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.provides.build: CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o
+
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o: ../tenka1bc2019/b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/b.cpp
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/b.cpp > CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.i
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/b.cpp -o CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.s
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.provides: CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.provides.build: CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o
+
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o: ../tenka1bc2019/c.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/c.cpp
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/c.cpp > CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.i
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/c.cpp -o CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.s
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.provides: CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.provides.build: CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o
+
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o: ../tenka1bc2019/d.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/d.cpp
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/d.cpp > CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.i
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/d.cpp -o CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.s
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.provides: CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.provides.build: CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o
+
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o: CMakeFiles/AtCoder.dir/flags.make
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o: ../tenka1bc2019/c1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o -c /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/c1.cpp
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/c1.cpp > CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.i
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kazukimasumura/WhatILearned/CppProject/AtCoder/tenka1bc2019/c1.cpp -o CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.s
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.requires:
+
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.requires
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.provides: CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AtCoder.dir/build.make CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.provides.build
+.PHONY : CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.provides
+
+CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.provides.build: CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o
+
+
 # Object files for target AtCoder
 AtCoder_OBJECTS = \
 "CMakeFiles/AtCoder.dir/Tutorial/practice1.cpp.o" \
@@ -608,7 +824,16 @@ AtCoder_OBJECTS = \
 "CMakeFiles/AtCoder.dir/abc124/b.cpp.o" \
 "CMakeFiles/AtCoder.dir/abc124/c.cpp.o" \
 "CMakeFiles/AtCoder.dir/abc124/d.cpp.o" \
-"CMakeFiles/AtCoder.dir/abc124/d2.cpp.o"
+"CMakeFiles/AtCoder.dir/abc124/d2.cpp.o" \
+"CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o" \
+"CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o" \
+"CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o" \
+"CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o" \
+"CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o" \
+"CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o" \
+"CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o" \
+"CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o" \
+"CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o"
 
 # External object files for target AtCoder
 AtCoder_EXTERNAL_OBJECTS =
@@ -635,9 +860,18 @@ AtCoder: CMakeFiles/AtCoder.dir/abc124/b.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/abc124/c.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/abc124/d.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o
+AtCoder: CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o
 AtCoder: CMakeFiles/AtCoder.dir/build.make
 AtCoder: CMakeFiles/AtCoder.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable AtCoder"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kazukimasumura/WhatILearned/CppProject/AtCoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable AtCoder"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AtCoder.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -667,6 +901,15 @@ CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/b.cpp.o.requires
 CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/c.cpp.o.requires
 CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/d.cpp.o.requires
 CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/abc124/d2.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/AntBookBeginer/arc004a.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/AntBookBeginer/abc051b.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/AntBookBeginer/abc085c.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/AntBookBeginer/arc061c.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/tenka1bc2019/a.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/tenka1bc2019/b.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/tenka1bc2019/c.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/tenka1bc2019/d.cpp.o.requires
+CMakeFiles/AtCoder.dir/requires: CMakeFiles/AtCoder.dir/tenka1bc2019/c1.cpp.o.requires
 
 .PHONY : CMakeFiles/AtCoder.dir/requires
 

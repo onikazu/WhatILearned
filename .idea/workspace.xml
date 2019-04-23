@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65ee7bdb-8c75-4bbb-831c-42b19aea3fc7" name="Default Changelist" comment="" />
+    <list default="true" id="65ee7bdb-8c75-4bbb-831c-42b19aea3fc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WhatILearned.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WhatILearned.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/AtCoder.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/AtCoder.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/AtCoder.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CppProject/AtCoder/memo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CppProject/AtCoder/memo.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,23 +34,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quotes_spider.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py">
+      <file leaf-file-name="sigmoid.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/sigmoid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sig_step_compare.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/sig_step_compare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neuralnet_mnist_batch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/neuralnet_mnist_batch.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="and_gate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroDeep/ch02/and_gate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nand_gate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroDeep/ch02/nand_gate.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="xor_gate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroDeep/ch02/xor_gate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +119,7 @@
         <option value="$PROJECT_DIR$/JavaScriptProject/uhyouhyo/index2-5.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -74,10 +133,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-137" />
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -95,28 +152,19 @@
             <path>
               <item name="WhatILearned" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearned" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ZeroDeep" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WhatILearned" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearned" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="ZeroDeep" type="462c0819:PsiDirectoryNode" />
+              <item name="ch02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WhatILearned" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearned" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WhatILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WhatILearned" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="ZeroDeep" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,19 +251,19 @@
     <option name="totallyTimeSpent" value="2786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-137" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32935324" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32935324" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32848486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -235,6 +283,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptProject/uhyouhyo/index2-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -305,14 +377,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/quotes-2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/quotes-1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -324,10 +394,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapingProject/tutorial/tutorial/spiders/quotes_spider.py">
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch02/and_gate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch02/nand_gate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch02/xor_gate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/sig_step_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/neuralnet_mnist_batch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/mnist_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/mnist_neuralnet.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroDeep/ch03/sigmoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
